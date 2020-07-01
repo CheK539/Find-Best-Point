@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7493796-501e-4406-a528-ac46e4df0b00" name="Default Changelist" comment="" />
+    <list default="true" id="a7493796-501e-4406-a528-ac46e4df0b00" name="Default Changelist" comment="Delete nunit library">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exercise-1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exercise-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exercise-1/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/GUI/MyForm.cs" root0="FORCE_HIGHLIGHTING" />
@@ -62,6 +68,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1a4xbm19D52IPmsXh6VdvG3Dpsm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -176,6 +183,8 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Delete nunit library" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete nunit library" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587923561638">
@@ -190,6 +199,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="401" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1586539006597" />
+    <state x="647" y="310" width="662" height="291" key="Github.ShareDialog" timestamp="1593578612871">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="310" width="662" height="291" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1593578612871" />
+    <state x="548" y="120" key="Github.UntrackedFilesDialog" timestamp="1593578695577">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="120" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1593578695577" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1593578163485">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
