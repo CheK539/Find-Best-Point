@@ -1,0 +1,14 @@
+E:\Project\RiderProjects\Exercise-1\Exercise-1\bin\Debug\Exercise-1.exe.config
+E:\Project\RiderProjects\Exercise-1\Exercise-1\bin\Debug\Exercise-1.exe
+E:\Project\RiderProjects\Exercise-1\Exercise-1\bin\Debug\Exercise-1.pdb
+E:\Project\RiderProjects\Exercise-1\Exercise-1\obj\Debug\Exercise-1.csprojAssemblyReference.cache
+E:\Project\RiderProjects\Exercise-1\Exercise-1\obj\Debug\Exercise_1.Properties.Resources.resources
+E:\Project\RiderProjects\Exercise-1\Exercise-1\obj\Debug\Exercise-1.csproj.GenerateResource.cache
+E:\Project\RiderProjects\Exercise-1\Exercise-1\obj\Debug\Exercise-1.csproj.CoreCompileInputs.cache
+E:\Project\RiderProjects\Exercise-1\Exercise-1\obj\Debug\Exercise-1.exe
+E:\Project\RiderProjects\Exercise-1\Exercise-1\obj\Debug\Exercise-1.pdb
+E:\Project\RiderProjects\Exercise-1\Exercise-1\bin\Debug\map.txt
+E:\Project\RiderProjects\Exercise-1\Exercise-1\bin\Debug\nunit.framework.dll
+E:\Project\RiderProjects\Exercise-1\Exercise-1\bin\Debug\nunit.framework.pdb
+E:\Project\RiderProjects\Exercise-1\Exercise-1\bin\Debug\nunit.framework.xml
+E:\Project\RiderProjects\Exercise-1\Exercise-1\obj\Debug\Exercise-1.csproj.CopyComplete
